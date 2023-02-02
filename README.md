@@ -51,11 +51,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Decode-Morse-Ruby] <a name="about-project"></a>
+# 📖 Decode-Morse-Ruby <a name="about-project"></a>
 
 > It is a method to decode a morse code message into a readable text and was built with Ruby. 
 
-**[Decode-Morse-Ruby]** is a...
+**Decode-Morse-Ruby** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -109,7 +109,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To run this project, follow these steps:
+In order to run this project you need:
+
+- [Ruby](https://www.ruby-lang.org/en/) installed and running.
+- You should be able to use [IRB](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Features).
 
 ### Prerequisites
 
