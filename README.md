@@ -90,9 +90,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Decode morse message]**
-- **[Decode morse word]**
-- **[Decode morse character]**
+- **Decode morse message**
+- **Decode morse word**
+- **Decode morse character**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,9 +209,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Encode morse message]**
-- [ ] **[Encode morse word]**
-- [ ] **[Encode morse character]**
+- [ ] **Encode morse message**
+- [ ] **Encode morse word**
+- [ ] **Encode morse character**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
