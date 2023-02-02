@@ -12,3 +12,14 @@ def decode_char(char)
 
   morse_code[char]
 end
+
+def decode_word(word)
+  word.split.map { |char| decode_char(char) }.join
+end
+def decode(message)
+  message.split('   ').map { |word| decode_word(word) }.join(' ')
+end
+
+puts decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+
+# "A BOX FULL OF RUBIES"
